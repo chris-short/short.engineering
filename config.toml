@@ -1,5 +1,0 @@
-baseURL = "https://short.engineering/"
-languageCode = "en-us"
-title = "short.engineering"
-
-disableKinds = ["page", "home", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"]
