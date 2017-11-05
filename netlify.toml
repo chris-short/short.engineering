@@ -1,6 +1,6 @@
 # Production context: All deploys to the main
 # repository branch will inherit these settings.
 [context.production]
-  publish = "public/"
+  publish = "/"
 [context.production.environment]
   HUGO_VERSION = "0.30.2"
